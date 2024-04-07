@@ -1,1 +1,20 @@
-![image](https://github.com/niic-noguee/Relogio-digital/assets/104528696/a066a3b1-ae38-48bd-9853-aa4b9b87ab68)
+<p align="center">
+Relógio digital
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|
+</p>
+<br>
+
+<p align="center">
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="80%" 
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
